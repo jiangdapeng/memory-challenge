@@ -1,2 +1,10 @@
-a small game called memory challenge
+"""
+note:
+you should check if you have installed pygame library before you run this code
+
+windows:
+  download pygame installer
+  install
+"""
+
 memory-grids: do you want to know how much grids can you remember in 5 seconds?
